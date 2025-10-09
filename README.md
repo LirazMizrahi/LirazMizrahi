@@ -3,6 +3,9 @@
 <h1>I'm Liraz Mizrahi </h1>
 
 <h3>💻 2nd Year Computer Science Student @ The Open University </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LirazMizrahi&label=Profile%20views&color=009970&style=flat-square" alt="Profile views"/>
+</p>
 <br>
   
 </div>
@@ -10,6 +13,8 @@
 - 📚 Currently learning **Infinitesimal Calculus 2** & **Database Systems**.  
 - 🚀 Passionate about technology, problem-solving, and continuous learning.
 - 📫 How to reach me [website]
+
+
 
 ---
 
@@ -20,7 +25,7 @@
   - Languages
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,java,py" />
   </a>
 </p>
 
@@ -37,9 +42,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liraz-mizrahi/)
 [![Email](https://img.shields.io/badge/Email-ff6fa0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lirazmiz1@gmail.com)
-
-
-
 
 
 
