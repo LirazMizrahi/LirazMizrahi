@@ -29,6 +29,8 @@
 ---
 
 🚀 **Let's Connect** 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liraz-mizrahi/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-663399?style=flat&logoColor=white)](https://yourportfolio.com)) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liraz-mizrahi/)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-663399?style=flat&logoColor=white)](https://yourportfolio.com)
+
 [![Email](https://img.shields.io/badge/Email-Me)](lirazmiz1@gmail.com)  
