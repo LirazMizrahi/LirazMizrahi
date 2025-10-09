@@ -1,8 +1,8 @@
 <div align="center">
   
-# I'm Liraz Mizrahi 
+<h1>I'm Liraz Mizrahi </h1>
 
-💻 2nd Year Computer Science Student @ **The Open University**.
+<h3>💻 2nd Year Computer Science Student @ **The Open University**</h3>
 <br>
   
 </div>
