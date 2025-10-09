@@ -35,11 +35,11 @@
 
 <h3> Contact with me: </h3>
 
-<a href="https://www.linkedin.com/in/liraz-mizrahi/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-</a><a href="mailto:lirazmiz1@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="48" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liraz-mizrahi/)
+[![Email](https://img.shields.io/badge/Email-ff6fa0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lirazmiz1@gmail.com)
+
+
+
 
 
 
