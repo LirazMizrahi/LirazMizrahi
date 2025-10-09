@@ -1,17 +1,14 @@
 # Hi, I'm Liraz Mizrahi 
 
 🎯 **About Me**
-- 🌱 Currently learning: 
+- 🌱 Currently learning: Infinitesimal Calculus 2 & Database Systems.
 - 💻 Student B.Sc. in Computer Science at The Open University | 2nd year. 
 - 🚀 Always excited about new technologies and solving complex problems.
-- 📫 Reach me at: https://www.linkedin.com/in/liraz-mizrahi/
 
 ---
 🎓 **Education**
-- 🎓 **[Degree or Certificate Name]**, [Institution Name]  
+- 🎓 **[B.Sc. in Computer Science]**, [The Open University]  
   _Example: B.Sc. in Computer Science, Open University_
-- 🏅 **Graduated Bootcamp in [Specialization, e.g., Full Stack Development]**  
-  _Example: Graduated from [Coding Academy] Bootcamp, specializing in React & Node.js_
 
 ---
 🛠 **Technologies & Tools I Work With**
@@ -20,17 +17,8 @@
 
 ---
 
-✨ **Featured Projects**
-1. **[Project Name](#)**: Brief description of the project.  
-   ![Technology](https://img.shields.io/badge/-TechnologyName-XXXXXX?style=flat&logo=tech&logoColor=white) ![Live Demo](https://img.shields.io/badge/-Live_Demo-BD93F9?style=flat)
-2. **[Another Project Name](#)**: Brief description of the project.  
-   ![Technology](https://img.shields.io/badge/-TechnologyName-XXXXXX?style=flat&logo=tech&logoColor=white)
-
----
-
 🚀 **Let's Connect** 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liraz-mizrahi/)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-663399?style=flat&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liraz-mizrahi/)
 
 [![Email](https://img.shields.io/badge/Email-Me)](lirazmiz1@gmail.com)  
