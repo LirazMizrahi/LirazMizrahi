@@ -2,7 +2,7 @@
   
 # I'm Liraz Mizrahi 
 
-💻 studying for a **B.Sc. in Computer Science** at **The Open University** | 2nd year.  
+💻 2nd Year Computer Science Student @ **The Open University**.
 <br>
   
 </div>
@@ -13,34 +13,33 @@
 
 ---
 
-### My Skills:
+<h3> My Skills: </h3>
 
 <p align="center">
   
   - Languages
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" style="filter: brightness(1.2);"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-  - Tools
-    
-<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
+  </a>
 </p>
 
+  - Tools
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=clion,eclipse,github,unity,vscode," />
+  </a>
+</p> 
 
-<div align="center">
+---
 
-<div align="center">
+<h3> Contact with me: </h3>
 
-**Contact me:**
-
-<a href="https://www.linkedin.com/in/liraz-mizrahi/" style="text-decoration:none; outline:none;">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/liraz-mizrahi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+</a><a href="mailto:lirazmiz1@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" />
 </a>
-&nbsp;
-<a href="mailto:lirazmiz1@gmail.com" style="text-decoration:none; outline:none;">
-  <img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail&logoColor=white"/>
-</a>
 
-</div>
+
+
