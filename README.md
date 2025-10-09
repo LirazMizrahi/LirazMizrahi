@@ -7,8 +7,8 @@
 
 ---
 🎓 **Education**
-- 🎓 **[B.Sc. in Computer Science]**, [The Open University]  
-  _Example: B.Sc. in Computer Science, Open University_
+- 🎓 B.Sc. in Computer Science, Open University.
+
 
 ---
 🛠 **Technologies & Tools I Work With**
