@@ -42,5 +42,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liraz-mizrahi/)   &nbsp; [![Email](https://img.shields.io/badge/Email-ff6fa0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lirazmiz1@gmail.com)
 
-
-## hi
