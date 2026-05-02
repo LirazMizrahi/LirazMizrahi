@@ -10,8 +10,8 @@
   
 </div>
 
-- 📚 Currently learning **Infinitesimal Calculus 2** & **Database Systems**.  
-- 🚀 Passionate about technology, problem-solving, and continuous learning.
+- 🎓 Maintaining a **91 GPA** as a 2nd year CS student.  
+- 📚 Passionate about technology, problem-solving, and continuous learning.
 - 📫 How to reach me [website]
 
 
